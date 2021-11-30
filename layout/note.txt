@@ -1,0 +1,2 @@
+copy folder 'dist' dan 'plugin' di dalam file 'File web Bootstap adminlte\AdminLTE-3.0.5' untuk aktifkan
+bootstrap
